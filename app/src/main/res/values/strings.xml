@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Aplikasi Maps</string>
+    <string name="google_maps_key">AIzaSyBKDgMKmq9CuBXy242O3FNnv7FqQD4MTQU</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>Masjid</item>
+        <item>Restoran</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Kantor DAMKAR</item>
+        <item>Rumah Sakit</item>
+        <item>Laundry</item>
+        <item>Bioskop</item>
+        <item>Kantor POS</item>
+        <item>Kantor Polisi</item>
+    </string-array>
+    <string name="tempat_ibadah">
+        <item>Masjid</item>
+        <item>Restoran</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Kantor DAMKAR</item>
+        <item>Rumah Sakit</item>
+        <item>Laundry</item>
+        <item>Bioskop</item>
+        <item>Kantor POS</item>
+        <item>Kantor Polisi</item>
+    </string>
+</resources>
