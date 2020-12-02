@@ -1,10 +1,14 @@
+com/example/myprojekmaps/konfigurasi.java
+ com.example.myprojekmaps.konfigurasi
+com/example/myprojekmaps/RequestHandler.java
+ com.example.myprojekmaps.RequestHandler
 com/example/myprojekmaps/lokasi.java
  com.example.myprojekmaps.lokasi
-com/example/myprojekmaps/ParserPlace.java
- com.example.myprojekmaps.ParserPlace
-com/example/myprojekmaps/BuildConfig.java
- com.example.myprojekmaps.BuildConfig
 com/example/myprojekmaps/MapsActivity.java
  com.example.myprojekmaps.MapsActivity
  com.example.myprojekmaps.MapsActivity$1
  com.example.myprojekmaps.MapsActivity$1$1
+com/example/myprojekmaps/BuildConfig.java
+ com.example.myprojekmaps.BuildConfig
+com/example/myprojekmaps/ParserPlace.java
+ com.example.myprojekmaps.ParserPlace
