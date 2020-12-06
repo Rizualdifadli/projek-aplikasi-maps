@@ -1,14 +1,10 @@
-com/example/myprojekmaps/konfigurasi.java
- com.example.myprojekmaps.konfigurasi
-com/example/myprojekmaps/RequestHandler.java
- com.example.myprojekmaps.RequestHandler
-com/example/myprojekmaps/lokasi.java
- com.example.myprojekmaps.lokasi
-com/example/myprojekmaps/MapsActivity.java
- com.example.myprojekmaps.MapsActivity
- com.example.myprojekmaps.MapsActivity$1
- com.example.myprojekmaps.MapsActivity$1$1
-com/example/myprojekmaps/BuildConfig.java
- com.example.myprojekmaps.BuildConfig
-com/example/myprojekmaps/ParserPlace.java
- com.example.myprojekmaps.ParserPlace
+com/example/findnearbyplaces/GetNearbyPlaces.java
+ com.example.findnearbyplaces.GetNearbyPlaces
+com/example/findnearbyplaces/BuildConfig.java
+ com.example.findnearbyplaces.BuildConfig
+com/example/findnearbyplaces/DownloadUrl.java
+ com.example.findnearbyplaces.DownloadUrl
+com/example/findnearbyplaces/DataParser.java
+ com.example.findnearbyplaces.DataParser
+com/example/findnearbyplaces/MapsActivity.java
+ com.example.findnearbyplaces.MapsActivity
