@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">myprojekmaps</string>
+    <string name="app_name">Find Nearby Places</string>
     <string name="title_activity_maps">Map</string>
- </resources>
+</resources>
