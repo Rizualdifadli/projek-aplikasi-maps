@@ -108,23 +108,23 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\al
 	android:label
 		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:15:9-43
 	android:icon
-		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:13:9-38
 	android:allowBackup
 		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:17:9-54
 meta-data#com.google.android.geo.API_KEY
-ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:19:9-21:55
+ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:19:9-21:71
 	android:value
-		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:21:13-52
+		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:21:13-68
 	android:name
 		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:20:13-58
 activity#com.example.findnearbyplaces.MapsActivity
 ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:25:13-56
+		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:25:13-36
 	android:name
 		ADDED from G:\FindNearbyPlaces\app\src\main\AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER

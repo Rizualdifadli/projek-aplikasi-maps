@@ -1,10 +1,10 @@
-com/example/findnearbyplaces/GetNearbyPlaces.java
- com.example.findnearbyplaces.GetNearbyPlaces
+com/example/findnearbyplaces/MapsActivity.java
+ com.example.findnearbyplaces.MapsActivity
 com/example/findnearbyplaces/BuildConfig.java
  com.example.findnearbyplaces.BuildConfig
 com/example/findnearbyplaces/DownloadUrl.java
  com.example.findnearbyplaces.DownloadUrl
 com/example/findnearbyplaces/DataParser.java
  com.example.findnearbyplaces.DataParser
-com/example/findnearbyplaces/MapsActivity.java
- com.example.findnearbyplaces.MapsActivity
+com/example/findnearbyplaces/GetNearbyPlaces.java
+ com.example.findnearbyplaces.GetNearbyPlaces

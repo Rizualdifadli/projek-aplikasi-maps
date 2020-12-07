@@ -1604,6 +1604,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_baseline_map_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
@@ -1818,7 +1819,6 @@ id hideable
 id home
 id homeAsUp
 id honorRequest
-id hospital_nearby
 id hospitals_nearby
 id hybrid
 id icon

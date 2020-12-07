@@ -22,19 +22,19 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/school"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/school"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.FindNearbyPlaces" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyAw0xwmHzKTiMwNGmGgpTRjoKncukegcbQ" />
 
         <activity
             android:name="com.example.findnearbyplaces.MapsActivity"
-            android:label="@string/title_activity_maps" >
+            android:label="PalMaps" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
